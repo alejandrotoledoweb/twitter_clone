@@ -1,6 +1,8 @@
 class TweetsController < ApplicationController
   before_action :set_tweet, only: [:show, :edit, :update, :destroy]
+  before_action :authentication_user!, except: [:index, :show]
 
+  
   # GET /tweets
   # GET /tweets.json
   def index
