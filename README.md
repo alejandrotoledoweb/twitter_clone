@@ -34,11 +34,11 @@ Then run this command to install all the dependencies:
 
 `bundle install`
 
-Now, we need to migrate the app files to create the tables with the respective functionalities:
+Now, we need to migrate the app to create the tables with the respective functionalities:
 
 `rails db:migrate`
 
-And for the last step run the server with this command, and open the browser using this link `http://localhost:3000/`
+And for the last step, start the server with this command and open the browser using this link `http://localhost:3000/`
 
 `rails sever`
 
