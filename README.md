@@ -2,9 +2,9 @@
 
 ## Description
 
-This is a practice on ruby on rails on how to create a twitter clone.
-The goal was to create a very similar looking page as Twitter and the ability to create tweets with a personal account.
-The app does not inlcude the funcionality to follow people and to be followed.
+This is a practice on Ruby on Rails on how to create a twitter clone.
+The goal was to create a very similar-looking page as Twitter and the ability to create tweets with a personal account.
+The app does not include the functionality to follow people and to be followed.
 
 ## Images
 
